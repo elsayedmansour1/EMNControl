@@ -1,5 +1,6 @@
 # EMNControl
 **Embedded Multi-Network Connectivity Management System**
+
 **Stack:** C++17, Qt 6 Framework, RESTful APIs (Qt REST Server), OpenAPI/Swagger, wpa_supplicant,
 ModemManager, DBus, DHCP Client.
 **•Architected** a headless Linux C++/Qt service to manage Ethernet, Wi-Fi, LTE, and hotspot interfaces, using
