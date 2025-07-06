@@ -1,0 +1,9 @@
+[submodule "CMLite"]
+	path = CMLite
+	url = git@github.com:elsayedmansour1/CMLite.git
+[submodule "RestAPI-Gateway"]
+	path = RestAPI-Gateway
+	url = git@github.com:elsayedmansour1/RestAPI-Gateway.git
+[submodule "WebConf"]
+	path = WebConf
+	url = git@github.com:elsayedmansour1/WebConf.git
