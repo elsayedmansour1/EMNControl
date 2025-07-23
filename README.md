@@ -5,7 +5,7 @@
 - **Developed C++/Qt Service**  
   Managed Ethernet, Wi-Fi, LTE, and hotspot interfaces using:  
   - `wpa_supplicant` for low-level Wi-Fi control (WPAS, enterprise authentication)  
-  - ModemManager for LTE modem configuration (APN, PDP contexts, signal thresholds)  
+  - `ModemManager` for LTE modem configuration (APN, PDP contexts, signal thresholds)  
   - `hostapd` for hotspot controlling  
 
 - **Developed RESTful API**  
